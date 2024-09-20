@@ -1,3 +1,3 @@
 # testrepo
 
-Testign GitHub for IBM Data Science Certificate
+Testing GitHub for IBM Data Science Certificate
